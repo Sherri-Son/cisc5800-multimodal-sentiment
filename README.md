@@ -35,7 +35,6 @@ Automated content moderation now decides what billions of posts a day look like 
 when-ai-misreads-us/
 ├── README.md                       ← you are here
 ├── requirements.txt                ← Python dependencies
-├── LICENSE                         ← MIT
 │
 ├── notebooks/
 │   ├── 01_extract_features.ipynb   ← CLIP + DistilBERT embedding extraction (run once)
@@ -108,9 +107,6 @@ jupyter execute notebooks/03_partition_analysis.ipynb
 jupyter execute notebooks/04_case_gallery.ipynb
 ```
 
-Or open each notebook in Colab via the badges below.
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/when-ai-misreads-us/blob/main/notebooks/02_train_models.ipynb)
 
 ---
 
