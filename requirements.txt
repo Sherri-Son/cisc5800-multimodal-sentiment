@@ -1,0 +1,26 @@
+# Core ML
+torch>=2.4.0
+torchvision>=0.19.0
+transformers>=4.46.0
+scikit-learn>=1.5.0
+
+# Data and arrays
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Image handling
+Pillow>=10.4.0
+
+# Visualization
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Notebooks
+jupyter>=1.0.0
+ipykernel>=6.29.0
+
+# Progress + utilities
+tqdm>=4.66.0
+
+# Dataset download (optional, for reproducing from scratch)
+kaggle>=1.6.0
