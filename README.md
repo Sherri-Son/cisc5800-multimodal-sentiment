@@ -124,7 +124,6 @@ We define the agreement subset as test posts where Text SVM and Image SVM predic
 
 The disagreement subset *is* the sarcasm and irony subset, almost by construction: it's the set of posts where the text channel and the image channel are sending different signals, which is the linguistic signature of meaning living in the gap between modalities. Every model loses substantial F1 there, and none of them really learns to resolve such conflicts.
 
-![Where Multimodal Fusion Earns Its Keep](figures/headline_partition.png)
 
 ---
 
